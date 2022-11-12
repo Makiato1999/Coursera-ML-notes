@@ -1,5 +1,5 @@
 # Machine Learning Specialization 
-_provided by Coursera & University of Washington_
+_provided by University of Washington & Coursera_
 #### Table of Contents
 1. [Machine Learning Foundations](#anchor_1)<br/>
 
