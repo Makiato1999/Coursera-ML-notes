@@ -27,4 +27,5 @@ _provided by University of Washington & Coursera_
     | healthy | healthy healthy | healthy negative | healthy flu |
     | cold    | cold healthy    | cold cold        | cold flu    | 
     | flu     | flu healthy     | flu cold         | flu flu     |
-4. mmm
+4. classification flow
+    <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week3.png"  width="600" height="400">
