@@ -21,9 +21,9 @@
     - false positive: not ill, be treated
     - true negative: not ill, not be treated
     
-    |         | healthy         | cold             | flu         |
-    |---------|-----------------|------------------|-------------|
-    | healthy | healthy healthy | healthy negative | healthy flu |
-    | cold    | cold healthy    | cold cold        | cold flu    | 
-    | flu     | flu healthy     | flu cold         | flu flu     |
+  |         | healthy         | cold             | flu         |
+  |---------|-----------------|------------------|-------------|
+  | healthy | healthy healthy | healthy negative | healthy flu |
+  | cold    | cold healthy    | cold cold        | cold flu    | 
+  | flu     | flu healthy     | flu cold         | flu flu     |
 4. mmm
