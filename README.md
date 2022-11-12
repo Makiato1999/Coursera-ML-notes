@@ -28,4 +28,4 @@ _provided by University of Washington & Coursera_
     | cold    | cold healthy    | cold cold        | cold flu    | 
     | flu     | flu healthy     | flu cold         | flu flu     |
 4. classification flow
-    <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week3.png"  width="600" height="400">
+    <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week3.png"  width="500" height="300">
