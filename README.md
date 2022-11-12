@@ -1,4 +1,4 @@
-# Coursera-MachineLearning-notes
+# Machine Learning Specialization | Coursera | University of Washington
 #### Table of Contents
 1. [Machine Learning Foundations](#anchor_1)<br/>
 
