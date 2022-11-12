@@ -16,10 +16,10 @@
     | spam     | spam filtered TP     | spam not filtered FN     |
     | not spam | not spam filtered FP | not spam not filtered TN |
   - example: medical diagnosis
-    - true positive: ill, be treated
-    - false negative: ill, not be treated
-    - false positive: not ill, be treated
-    - true negative: not ill, not be treated
+    |         | treated            | not treated            | 
+    |---------|--------------------|------------------------|
+    | ill     | ill treated TP     | ill not treated FN     | 
+    | not ill | not ill treated FP | not ill not treated TN |
   - multiclasses
     |         | healthy         | cold             | flu         |
     |---------|-----------------|------------------|-------------|
