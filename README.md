@@ -30,3 +30,5 @@ _provided by University of Washington & Coursera_
 4. classification flow
     <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week3.png"  width="500" height="300">
 5. Assignment: [Analyzing product sentiment](https://github.com/Makiato1999/note-ML/tree/main/Foundations/Week3)
+6. cluster flow
+    <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week4.png"  width="500" height="300">
