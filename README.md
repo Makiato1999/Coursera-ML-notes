@@ -37,3 +37,4 @@ _provided by University of Washington & Coursera_
 7. week4 Assignment: 
     - classification, K-nearest neighbors(KNN), supervised
     - [Retrieving Wikipedia articles](https://github.com/Makiato1999/note-ML/tree/main/Foundations/Week4)
+8. Collaborative filtering
