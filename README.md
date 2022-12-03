@@ -29,6 +29,11 @@ _provided by University of Washington & Coursera_
     | flu     | flu healthy     | flu cold         | flu flu     |
 4. classification flow
     <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week3.png"  width="500" height="300">
-5. Assignment: [Analyzing product sentiment](https://github.com/Makiato1999/note-ML/tree/main/Foundations/Week3)
+5. week3 Assignment: 
+    - classification, Logistic regression, supervised
+    - [Analyzing product sentiment](https://github.com/Makiato1999/note-ML/tree/main/Foundations/Week3)
 6. cluster flow
     <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week4.png"  width="500" height="300">
+7. week4 Assignment: 
+    - classification, K-nearest neighbors(KNN), supervised
+    - [Retrieving Wikipedia articles](https://github.com/Makiato1999/note-ML/tree/main/Foundations/Week4)
