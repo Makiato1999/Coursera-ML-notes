@@ -38,6 +38,7 @@ _provided by University of Washington & Coursera_
     - classification, K-nearest neighbors(KNN), supervised
     - [Retrieving Wikipedia articles](https://github.com/Makiato1999/note-ML/tree/main/Foundations/Week4)
 8. Collaborative filtering
-    - SVD, [details(简中)](https://www.cnblogs.com/pinard/p/6251584.html)
+    - SVD(Singular Value Decomposition), [details(简中)](https://www.cnblogs.com/pinard/p/6251584.html)
+    - PCA(Principal component analysis), (I remember this is my COMP4360 last chapter, pretty interesting)
 9. Recommender systems ML block diagram
     <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week5.png"  width="500" height="300">
