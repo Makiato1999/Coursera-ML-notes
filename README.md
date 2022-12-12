@@ -46,3 +46,5 @@ _provided by University of Washington & Coursera_
     - recall: (#liked & shown) / #liked
     - precision: (#liked & shown) / #shown
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week5r&p.png"  width="500" height="300">
+2. no-linear features with neural network
+    - x1 OR x2
