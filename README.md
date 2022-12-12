@@ -42,3 +42,6 @@ _provided by University of Washington & Coursera_
     - PCA(Principal component analysis), (I remember this is my COMP4360 last chapter, pretty interesting)
 9. Recommender systems ML block diagram
     <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week5.png"  width="500" height="300">
+1. recall & precision
+    - recall: (#liked & shown) / #liked
+    - precision: (#liked & shown) / #shown
