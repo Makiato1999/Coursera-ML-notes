@@ -51,4 +51,8 @@ _provided by University of Washington & Coursera_
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week6&||.png"  width="500" height="300">
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week6xor.png"  width="500" height="300">
     - Two examples
+        - (x1 AND x2) OR (NOT x1 AND NOT x2) = z1 OR z2
+            - (x1 AND x2) OR (NOT x1 AND NOT x2) = z1 OR z2
+                - z1 = x1 AND x2
+                - z2 = NOT x1 AND NOT x2
         
