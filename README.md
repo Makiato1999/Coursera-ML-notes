@@ -47,6 +47,7 @@ _provided by University of Washington & Coursera_
     - precision: (#liked & shown) / #shown
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week5r&p.png"  width="500" height="300">
 2. no-linear features with neural network
+    - ```x1*w1 + x2*w2```w is weight, we can change weight to control classifier
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week6&||.png"  width="500" height="300">
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week6xor.png"  width="500" height="300">
         
