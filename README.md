@@ -50,4 +50,5 @@ _provided by University of Washington & Coursera_
     - ```x1*w1 + x2*w2```w is weight, we can change weight to control classifier
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week6&||.png"  width="500" height="300">
     - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week6xor.png"  width="500" height="300">
+    - Two examples
         
