@@ -55,4 +55,5 @@ _provided by University of Washington & Coursera_
             - z1 OR z2
                 - z1 = x1 AND x2
                 - z2 = NOT x1 AND NOT x2
+                - <br><img src="https://github.com/Makiato1999/note-ML/blob/main/image/foundation/week6z1.png"  width="400" height="200">
         
